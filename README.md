@@ -1,10 +1,10 @@
-Image Captioning using CNN and LSTM
+## Image Captioning using CNN and LSTM
 
-Overview
+# Overview
 
 This project implements an image captioning model using CNNs (DenseNet201) for feature extraction and LSTMs for caption generation. It is trained on the Flickr8k dataset and evaluates performance using BLEU scores.
 
-Features
+# Features
 
 Uses DenseNet201 for feature extraction.
 
@@ -14,7 +14,7 @@ Implements preprocessing, tokenization, and batch-wise data generation.
 
 Supports evaluation and inference.
 
-Results
+# Results
 
 Sample Output: "A dog running through the water."
 
